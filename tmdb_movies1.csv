@@ -1,0 +1,6 @@
+movie_id,title,overview,cast,crew
+1,Avatar,"A paraplegic Marine is dispatched to the moon Pandora on a unique mission.","[{""cast_id"": 1, ""character"": ""Jake Sully"", ""name"": ""Sam Worthington""}]","[{""job"": ""Director"", ""name"": ""James Cameron""}]"
+2,Inception,"A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea.","[{""cast_id"": 2, ""character"": ""Dom Cobb"", ""name"": ""Leonardo DiCaprio""}]","[{""job"": ""Director"", ""name"": ""Christopher Nolan""}]"
+3,Interstellar,"A team of explorers travel through a wormhole in space to ensure humanity's survival.","[{""cast_id"": 3, ""character"": ""Cooper"", ""name"": ""Matthew McConaughey""}]","[{""job"": ""Director"", ""name"": ""Christopher Nolan""}]"
+4,The Matrix,"A computer hacker learns about the true nature of his reality and his role in the war against its controllers.","[{""cast_id"": 4, ""character"": ""Neo"", ""name"": ""Keanu Reeves""}]","[{""job"": ""Director"", ""name"": ""Lana Wachowski""}, {""job"": ""Director"", ""name"": ""Lilly Wachowski""}]"
+5,The Godfather,"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.","[{""cast_id"": 5, ""character"": ""Michael Corleone"", ""name"": ""Al Pacino""}]","[{""job"": ""Director"", ""name"": ""Francis Ford Coppola""}]"
